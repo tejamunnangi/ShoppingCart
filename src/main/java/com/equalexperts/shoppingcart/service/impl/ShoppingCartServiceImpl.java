@@ -8,11 +8,11 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.equalexperts.service.ShoppingCartService;
 import com.equalexperts.shoppingcart.dao.CartDAO;
 import com.equalexperts.shoppingcart.domain.CartUpdateResponse;
 import com.equalexperts.shoppingcart.domain.CartItem;
 import com.equalexperts.shoppingcart.domain.ShoppingCart;
+import com.equalexperts.shoppingcart.service.ShoppingCartService;
 
 @Service
 public class ShoppingCartServiceImpl implements ShoppingCartService {

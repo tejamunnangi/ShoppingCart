@@ -1,4 +1,4 @@
-package com.equalexperts.service;
+package com.equalexperts.shoppingcart.service;
 
 import com.equalexperts.shoppingcart.domain.CartUpdateResponse;
 import com.equalexperts.shoppingcart.domain.CartItem;
