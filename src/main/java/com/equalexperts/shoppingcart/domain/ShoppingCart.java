@@ -1,4 +1,4 @@
-package com.equalexperts.shoppingcart.addproduct.domain;
+package com.equalexperts.shoppingcart.domain;
 
 import java.io.Serializable;
 import java.util.Set;
@@ -12,6 +12,6 @@ import lombok.Setter;
 @EqualsAndHashCode
 public class ShoppingCart implements Serializable {
     private static final long serialVersionUID = -3364360324623809842L;
-    private Set<Item> itemSet;
+    private Set<CartItem> itemSet;
     private Double totalAmount;
 }

@@ -1,4 +1,4 @@
-package com.equalexperts.shoppingcart.addproduct.domain;
+package com.equalexperts.shoppingcart.domain;
 
 import java.io.Serializable;
 import java.time.LocalDateTime;
