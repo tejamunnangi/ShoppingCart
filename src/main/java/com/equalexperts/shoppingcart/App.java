@@ -1,4 +1,4 @@
-package com.equalexperts.shoppingcart.addproduct;
+package com.equalexperts.shoppingcart;
 
 public class App {
     public static void main(String[] args) {

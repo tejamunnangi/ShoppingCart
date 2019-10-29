@@ -2,10 +2,10 @@ package com.equalexperts.shoppingcart.addproduct.service.impl;
 
 import java.util.Set;
 
+import com.equalexperts.service.ShoppingCartService;
 import com.equalexperts.shoppingcart.addproduct.domain.CartUpdateResponse;
 import com.equalexperts.shoppingcart.addproduct.domain.Item;
 import com.equalexperts.shoppingcart.addproduct.domain.ShoppingCart;
-import com.equalexperts.shoppingcart.addproduct.service.ShoppingCartService;
 
 public class ShoppingCartServiceImpl implements ShoppingCartService {
 

@@ -1,4 +1,4 @@
-package com.equalexperts.shoppingcart.addproduct.service;
+package com.equalexperts.service;
 
 import java.util.Set;
 
